@@ -1,0 +1,5 @@
+127.0.0.1 - - [22/Oct/2024:21:47:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Oct/2024:21:47:33 +0530] "GET /WeatherForecasting/index.html HTTP/1.1" 200 1215
+0:0:0:0:0:0:0:1 - - [22/Oct/2024:21:47:33 +0530] "GET /WeatherForecasting/styles.css HTTP/1.1" 200 538
+0:0:0:0:0:0:0:1 - - [22/Oct/2024:21:47:33 +0530] "GET /WeatherForecasting/script.js HTTP/1.1" 200 2485
+0:0:0:0:0:0:0:1 - - [22/Oct/2024:21:47:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
